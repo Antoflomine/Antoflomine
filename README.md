@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Monica!<br>I’m a Software Engineer at Capgemini, with 1 year of experience in web and backend development. I hold a BE in Computer Science & Engineering (CSE) and have a strong passion for building scalable and efficient applications.<br><br>🚀 Skills & Technologies<br>Backend: Java, Spring<br>Frontend: HTML, CSS, JavaScript<br>Database: MySQL<br>Version Control: Git, GitHub<br><br>🌱 Currently Learning<br>RabbitMQ<br>Kafka<br><br>📫 Connect with Me<br>- [LinkedIn](www.linkedin.com/in/monicasaj)<br>- [GitHub](https://github.com/Antoflomine)
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/monicasaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monicabelciaraj@gmail.com) 
 
