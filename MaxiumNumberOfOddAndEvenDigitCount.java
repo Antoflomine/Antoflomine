@@ -15,7 +15,6 @@ public class Main
 	    }
 	    if(ec>oc){
 	        		System.out.println(ec);
-
 	    }
 	    else{
 		System.out.println(oc);
